@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<strong>
+//<strong>
 Click <a href="https://www.facebook.com/valerie.alvares"><u>Here</u></a> To Contact
-</strong>
+//</strong>
 </p>
